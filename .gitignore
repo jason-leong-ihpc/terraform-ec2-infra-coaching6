@@ -38,3 +38,7 @@ terraform.rc
 
 # Ignore keys
 *.pem
+
+
+*.tfvars
+.terraform.lock.hcl
